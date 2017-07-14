@@ -40,6 +40,10 @@
     "prop-types": "^15.5.10",
     "react-timer-mixin": "^0.13.3"
   },
+  "peerDependencies": {
+    "react": "^16 || ^15",
+    "react-native": ">=0.46.2"
+  },
   "devDependencies": {
     "babel-eslint": "^6.0.4",
     "eslint": "^3.17.1",
